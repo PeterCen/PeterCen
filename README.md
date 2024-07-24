@@ -26,3 +26,8 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
+
+## Contatos
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Discord" src="[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=w240-h480-rw)"/>
+</div>
