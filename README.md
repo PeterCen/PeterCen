@@ -22,9 +22,6 @@
 </div>
 
 <div style="display: inline_block"><br/>
-    <a href="https://www.linkedin.com/in/pedro-centurion-816597149/" target="_blank">
-        <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
     <a href="https://discord.com/users/348567015801225217" target="_blank">
         <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
