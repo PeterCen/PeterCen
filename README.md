@@ -2,8 +2,6 @@
 
 ### Olá eu sou o Pedro Centurion, Bem-Vindo(a) ao meu perfil 😊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterCen&theme=transparent&show_icons=true)
-
 ## Linguagens
 
 <div style="display: inline_block"><br/>
