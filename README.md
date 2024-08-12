@@ -15,7 +15,8 @@
 </div>
 
 <div style="display: inline_block"><br/>
-    <img href="https://www.linkedin.com/in/pedro-centurion-816597149/"
-        align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-        />
+    <a href="https://www.linkedin.com/in/pedro-centurion-816597149/" target="_blank">
+        <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 </div>
+
