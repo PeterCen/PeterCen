@@ -15,9 +15,6 @@
     <a href="https://www.linkedin.com/in/pedro-centurion-816597149/" target="_blank">
         <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="pedro_centurion" target="_blank">
-        <img align="center" alt="pedro_centurion" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
     <a href="mailto:p.centurion@hotmail.com" target="_blank">
         <img align="center" alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
     </a>
